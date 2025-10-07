@@ -1,0 +1,8 @@
+Tính năng mới: Hệ thống quản lý người dùng
+
+1. Cho phép đăng ký và đăng nhập tài khoản.
+2. Lưu thông tin người dùng trong cơ sở dữ liệu.
+3. Có chức năng đổi mật khẩu và chỉnh sửa thông tin.
+4. Bảo mật bằng mã hóa mật khẩu (bcrypt).
+5. Tích hợp API xác thực JWT cho frontend.
+
